@@ -1,0 +1,66 @@
+.fon {
+    height: 100vh;
+    background: url('globe-706985_1920.jpg');
+    background-size: cover;
+}
+.nav-link {
+    color: #fff !important;
+}
+
+
+h3{
+    text-transform: uppercase;
+    color: white;
+}
+
+h6{
+    text-transform: uppercase;
+    color: white;
+}
+
+.tel{
+    color: #ff6600;
+    padding-right: 30pt;
+    font-size: 20pt;
+    font-weight: 700;
+    line-height: 1pt;
+}
+
+.bez{
+    color:white;
+    padding-right: 30pt;
+    font-size: 8pt;
+    font-weight: 600;   
+}
+
+.sr1{
+    position: absolute;
+    top: 45%;
+    color: white;
+    font-size: 16pt;
+    
+}
+.sr2{
+    position: absolute;
+    top: 50%;
+    color: white;
+    font-size: 30pt;
+    font-weight: 800;
+    
+}
+
+.navbar-nav{
+    padding-left: 50%;
+    
+}
+
+.img{
+    display: flex; 
+    align-items: center;
+    height: 210px;
+    box-shadow: 0 1px 3px 3px gray;
+}
+
+.img img{
+    width: 100%;
+}
